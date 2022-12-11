@@ -6,3 +6,8 @@ Slide: https://docs.google.com/presentation/d/1FnCVUNJ0zb1nzhfrvrkmJ42WMSvi5kcpx
 
 2. **House Price Predictions** <br/>
    This is also my college assignment. The main focus on this assignment is data cleansing. But I was also assigned to make predictions on house prices from cleaned data. This dataset is about house prices and this dataset consists of 29451 rows and 12 columns.
+
+2. **Traveloka Chatbot Model** <br/>
+   I made this chatbot model in the final project of the Bangkit program. I worked on a Company-Based Capstone Project with Traveloka, called a chatbot application for customer operations handling many complaints and pressing. My team and I also got selected as the Best team for each company's projects at the end of this project.
+   Slide: https://docs.google.com/presentation/d/1fxCdtVFRBft7Jph4BryEMPVCHYrSasDWDBBzywqIHFc/edit
+   Repo (complete chatbot application): https://github.com/c22-cb02
