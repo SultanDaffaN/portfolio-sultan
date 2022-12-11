@@ -9,5 +9,6 @@ Slide: https://docs.google.com/presentation/d/1FnCVUNJ0zb1nzhfrvrkmJ42WMSvi5kcpx
 
 2. **Traveloka Chatbot Model** <br/>
    I made this chatbot model in the final project of the Bangkit program. I worked on a Company-Based Capstone Project with Traveloka, called a chatbot application for customer operations handling many complaints and pressing. My team and I also got selected as the Best team for each company's projects at the end of this project.
-   Slide: https://docs.google.com/presentation/d/1fxCdtVFRBft7Jph4BryEMPVCHYrSasDWDBBzywqIHFc/edit
+   
+   Slide: https://docs.google.com/presentation/d/1fxCdtVFRBft7Jph4BryEMPVCHYrSasDWDBBzywqIHFc/edit <br />
    Repo (complete chatbot application): https://github.com/c22-cb02
