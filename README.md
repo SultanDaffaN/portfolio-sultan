@@ -9,7 +9,6 @@
    I made this with my friends while joining a local competition on my campus. We are given a dataset about floods in Indonesia. The data is a collection of tweets that were scraped from Twitter and contained text and images. We are asked to predict whether the tweet has actionable intelligence from this information. In the end, we won 3rd place in this competition.
    
    Kaggle link: https://www.kaggle.com/competitions/ristek-datathon-2022/overview/description <br />
-   Docs (Methodology): https://docs.google.com/document/d/1xWgWuAlACt4s0klEWRonNAsm6hGgKl3IdpAC11xals8/edit?usp=sharing
 
 3. **Income Analysis and Predictions** <br/>
    This portfolio is my college assignment. I was assigned to do EDA on the dataset and make predictions from it. The data is taken from the dataset that has been provided in Scele CS UI. This dataset contains data on people with various characteristics. From the characteristics of each person, then their income is annotated whether they are below 50 thousand dollars or above 50 thousand dollars per year. <br/><br/>
